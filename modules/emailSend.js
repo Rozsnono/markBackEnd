@@ -5,7 +5,7 @@ class emailSend {
     async makeAccount(details) {
         const account = {
             user: "gaalmark.markit@gmail.com",
-            pass: process.env.EMAIL_PASS
+            pass: "ipwrchhxdgntafug"
         };
 
 
